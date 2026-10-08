@@ -31,8 +31,3 @@ Seorang pelajar dan penggiat musik yang berdomisili di Banjarmasin.
 </p>
 
 ---
-
-*Catatan: Jika kamu ingin menggunakan file SVG manual `metric.svg` yang telah dibuat sebelumnya, kamu bisa mengunggah berkas tersebut ke repositori profil GitHub kamu dan menampilkannya dengan kode berikut:*
-
-```markdown
-![Metric SVG](./metric.svg)
