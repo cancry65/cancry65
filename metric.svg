@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" fill="none">
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
+    .stat-label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
+    .stat-value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+    .bold { font-weight: 600; }
+    .badge { font: 500 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #3FB950; }
+  </style>
+
+  <rect width="480" height="200" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <g transform="translate(25, 35)">
+    <!-- Header / Title -->
+    <text x="0" y="0" class="header">Github Activity • cancry65</text>
+    
+    <!-- Rank / Status Badge -->
+    <rect x="360" y="-15" width="70" height="22" rx="11" fill="#238636" fill-opacity="0.2" stroke="#238636" stroke-width="1"/>
+    <text x="395" y="0" text-anchor="middle" class="badge">Active</text>
+
+    <!-- Stats List -->
+    <g transform="translate(0, 30)">
+      <!-- Total Commits -->
+      <circle cx="8" cy="8" r="4" fill="#58A6FF"/>
+      <text x="25" y="12" class="stat-label">Total Commit</text>
+      <text x="430" y="12" text-anchor="end" class="stat-value">---</text>
+
+      <!-- Pull Requests -->
+      <circle cx="8" cy="36" r="4" fill="#3FB950"/>
+      <text x="25" y="40" class="stat-label">Pull Request</text>
+      <text x="430" y="40" text-anchor="end" class="stat-value">---</text>
+
+      <!-- Issues -->
+      <circle cx="8" cy="64" r="4" fill="#D29922"/>
+      <text x="25" y="68" class="stat-label">Total Issue</text>
+      <text x="430" y="68" text-anchor="end" class="stat-value">---</text>
+
+      <!-- Contributed Repos -->
+      <circle cx="8" cy="92" r="4" fill="#A371F7"/>
+      <text x="25" y="96" class="stat-label">Kontribusi Repositori</text>
+      <text x="430" y="96" text-anchor="end" class="stat-value">---</text>
+    </g>
+
+    <!-- Contribution Graph Bar Simulation -->
+    <g transform="translate(0, 140)">
+      <rect x="0" y="0" width="430" height="8" rx="4" fill="#161B22"/>
+      <rect x="0" y="0" width="280" height="8" rx="4" fill="#238636"/>
+      <rect x="0" y="0" width="180" height="8" rx="4" fill="#3FB950"/>
+      <rect x="0" y="0" width="80" height="8" rx="4" fill="#58A6FF"/>
+    </g>
+  </g>
+</svg>
