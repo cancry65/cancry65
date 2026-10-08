@@ -11,7 +11,7 @@ Seorang pelajar dan penggiat musik yang berdomisili di Banjarmasin.
 
 * **2008**: Lahir di Tabalong.
 * **Usia 4 Tahun**: Pindah ke Bandung dan mulai bersekolah hingga kelas 3 di MI Nurul Huda.
-* **Usia 7–8 Tahun**: Pindah ke Palangka Raya dan melanjutkan sekolah hingga kelas 5 di SDN 1 Bukit Tunggal.
+* **Usia 7–8 Tahun**: Pindah ke Palangka Raya dan melanjutkan sekolah hingga kelas 5 di SDN 7 Bukit Tunggal.
 * **Lulus SD**: Pindah ke Banjarmasin dan menyelesaikan pendidikan di SDN Pangeran 3.
 * **SMP**: Lulus dari SMPN 13 Banjarmasin.
 * **SMA/SMK**: Saat ini menempuh pendidikan di **SMKN 4 Banjarmasin**.
